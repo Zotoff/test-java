@@ -1,4 +1,4 @@
-package src;
+package src.Entyties;
 
 public class ToDoTask {
     private int id;
