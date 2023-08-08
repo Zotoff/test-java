@@ -34,7 +34,6 @@ public class InMemoryMenuServices implements MenuServices {
         for (ToDoTask task : tasksList) {
             System.out.println(task.getName());
         }
-
     }
     
 }
